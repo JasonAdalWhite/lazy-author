@@ -1,0 +1,2 @@
+# lazy-author
+.README Generator
